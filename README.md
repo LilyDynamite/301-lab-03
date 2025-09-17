@@ -3,10 +3,11 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+Lab demo/slides
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Taylor Crawford`    | `ldcrawf` |
 | `<Add more>` | `<CCID>`  |
