@@ -10,4 +10,4 @@ Lab demo/slides
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Taylor Crawford`    | `ldcrawf` |
-| `<Add more>` | `<CCID>`  |
+| `Marin Nelson` | `monelson`  |
